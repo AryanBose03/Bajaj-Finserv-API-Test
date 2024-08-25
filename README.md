@@ -7,5 +7,5 @@ Build and deploy a REST API with one endpoint that accepts requests with both GE
 4. College Roll Number
 5. Array for numbers
 6. Array for alphabets
-7. Array with the highest lowercase alphabet (refer to logic explanation below)
+7. Array with the highest lowercase alphabet
 GET method endpoint doesn’t take any user input, it just returns an operation_code
